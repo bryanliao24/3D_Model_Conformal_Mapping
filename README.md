@@ -10,8 +10,8 @@ By calculating the harmonic and Tutte energies, the convergence was successfully
 
 
 <div align="center";>
-    <div style="display: inline-block; text-align: center; margin: 20px;">
-        <img src="https://github.com/bryanliao24/3D_Model_Conformal_Mapping/blob/main/img/1.PNG" width="400" alt="UCLA’s brain cortical surface model" />
+    <div style="display: inline-block; text-align: center;">
+        <img src="https://github.com/bryanliao24/3D_Model_Conformal_Mapping/blob/main/img/1.PNG" alt="UCLA’s brain cortical surface model" />
         <p style="text-align: center;">UCLA’s brain cortical surface model</p>
     </div>
 </div>
